@@ -8,7 +8,7 @@
 * Efficiency
     * Sub Point
 
-![Lamp Flowchart](images\LampFlowchart.png "sybau icl ts pmo sm vro 💔💔🥀")
+![Lamp Flowchart](images\LampFlowchart.png "Flowchart")
 
 ---
 
@@ -76,8 +76,18 @@
 ---
 ## Researching and Planning
 
+
+### Gantt Chart
 ![Planning](images/Gantt%20Chart.png "Planning Gantt Chart")
 
+--- 
+### Researching Existing UIs
+
+| UI name | Plus | Minus | Implication |
+|---------|------|-------|----------|
+| **Headspace** | Clean, simplistic design with abundant white space. The website uses accessibility-friendly functional aspects although there are not too many of them. It uses bright, pleasing colours to appeal to users who have come to the website seeking mental health advice.| May be leaning too far towards simplicity over function, text is too compact which contrasts with its aim at a pleasing experience | Will integrate the general aesthetic that makes it a pleasing experience to use, while staying away from compact text or any cramped spaces |
+| **Github/Gitbook** | The UI is straightforward and tidy while maintaining a functioning nature. It also has personalisable aspects that make the user experience much more accessible. | Is more of a website with a function rather than one with an immersive "feel". Uses solid colours that are either extremely bright or extremely dark to maintain its simplicity, which could be limiting its appeal | Will integrate multiple design aspects that corroborate function and useability
+| **YouTube** | The UI gives the user full control over how they use the website while effectively maintaining accessibility, function and informational design, which would be an evident factor for the huge amount of users that use this website daily. | Apart from so many components being fitted on a limited screen, YouTube has the same problem as the other websites where about 95% of the entire UI is either white or black (apart from the thumbnails of the videos on the home page) which compromises appeal once more. | Will integrate its functional sense that follows the user rather than try to appeal to everyone all at once.
 
 
 
